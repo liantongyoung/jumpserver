@@ -2543,8 +2543,8 @@ msgstr "代码错误"
 #: authentication/templates/authentication/login_otp.html:27
 #: users/templates/users/reset_password.html:25
 #: xpack/plugins/interface/models.py:36
-msgid "Welcome to the Jumpserver open source fortress"
-msgstr "欢迎使用Jumpserver开源堡垒机"
+msgid "For account security, please verify again"
+msgstr "为了账户安全, 请进行二次验证"
 
 #: authentication/templates/authentication/login.html:29
 #: authentication/templates/authentication/login_otp.html:29
@@ -2553,8 +2553,8 @@ msgid ""
 "source protocol, is a professional operation and maintenance audit system in "
 "compliance with 4A."
 msgstr ""
-"全球首款完全开源的堡垒机，使用GNU GPL v2.0开源协议，是符合 4A 的专业运维审计"
-"系统。"
+#"全球首款完全开源的堡垒机，使用GNU GPL v2.0开源协议，是符合 4A 的专业运维审计"#
+#"系统。"#
 
 #: authentication/templates/authentication/login.html:32
 #: authentication/templates/authentication/login_otp.html:32
@@ -2563,8 +2563,8 @@ msgid ""
 "equipped with industry-leading Web Terminal solutions, with beautiful "
 "interactive interface and good user experience."
 msgstr ""
-"使用Python / Django 进行开发，遵循 Web 2.0 规范，配备了业界领先的 Web "
-"Terminal 解决方案，交互界面美观、用户体验好。"
+#"使用Python / Django 进行开发，遵循 Web 2.0 规范，配备了业界领先的 Web "#
+#"Terminal 解决方案，交互界面美观、用户体验好。"#
 
 #: authentication/templates/authentication/login.html:35
 #: authentication/templates/authentication/login_otp.html:35
@@ -2574,13 +2574,13 @@ msgid ""
 "login node, which can be extended horizontally and without concurrent access "
 "restrictions."
 msgstr ""
-"采纳分布式架构，支持多机房跨区域部署，中心节点提供 API，各机房部署登录节点，"
-"可横向扩展、无并发访问限制。"
+#"采纳分布式架构，支持多机房跨区域部署，中心节点提供 API，各机房部署登录节点，"#
+#"可横向扩展、无并发访问限制。"#
 
 #: authentication/templates/authentication/login.html:38
 #: authentication/templates/authentication/login_otp.html:38
 msgid "Changes the world, starting with a little bit."
-msgstr "改变世界，从一点点开始。"
+msgstr ""
 
 #: authentication/templates/authentication/login.html:46
 #: authentication/templates/authentication/login.html:73
